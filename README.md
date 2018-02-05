@@ -1,4 +1,5 @@
 # NativeScript Local Notifications Plugin
+> Supports PA 01.00.30 and greater.
 
 [![NPM version][npm-image]][npm-url]
 [![Downloads][downloads-image]][npm-url]
